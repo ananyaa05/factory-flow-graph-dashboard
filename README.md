@@ -3,7 +3,7 @@
 This dashboard visualizes Project Overview", Station Load, Capacity Tracker and Worker Coverage using a Neo4j graph database backend. It includes a predictive analytics engine (Bonus C) that forecasts Week 9 station load using linear regression.
 
 ## Deployed App
-[View the Live Dashboard Here](https://YOUR-APP-NAME.streamlit.app)
+[View the Live Dashboard Here](https://factory-flow-graph-dashboard-ananyaa-m.streamlit.app/)
 
 ## Local Setup
 1. Clone the repository and navigate to this folder.
